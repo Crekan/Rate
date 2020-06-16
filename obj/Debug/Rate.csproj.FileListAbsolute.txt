@@ -1,0 +1,10 @@
+D:\C#\Rate\bin\Debug\Rate.exe.config
+D:\C#\Rate\bin\Debug\Rate.exe
+D:\C#\Rate\bin\Debug\Rate.pdb
+D:\C#\Rate\obj\Debug\Rate.csprojAssemblyReference.cache
+D:\C#\Rate\obj\Debug\Rate.Form1.resources
+D:\C#\Rate\obj\Debug\Rate.Properties.Resources.resources
+D:\C#\Rate\obj\Debug\Rate.csproj.GenerateResource.cache
+D:\C#\Rate\obj\Debug\Rate.csproj.CoreCompileInputs.cache
+D:\C#\Rate\obj\Debug\Rate.exe
+D:\C#\Rate\obj\Debug\Rate.pdb
